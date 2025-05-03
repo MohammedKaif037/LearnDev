@@ -764,7 +764,7 @@ public class Application {
           <Link href="/modules/fundamentals/basic-understanding/core-principles">← Core Principles</Link>
         </Button>
         <Button asChild>
-          <Link href="/modules/fundamentals/basic-understanding/starters">Next: Spring Boot Starters →</Link>
+          <Link href="/modules/fundamentals/basic-understanding/spring-boot-starters">Next: Spring Boot Starters →</Link>
         </Button>
       </div>
     </div>
